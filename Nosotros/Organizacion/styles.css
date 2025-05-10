@@ -1,0 +1,57 @@
+/* Estilos CSS para la sección de dirección */
+.direccion-seccion {
+    margin-bottom: 50px;
+    padding: 40px;
+    border: 1px solid #dee2e6;
+    border-radius: 12px;
+    background-color: #fff;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+    text-align: center; /* Centrar el contenido de la dirección */
+}
+
+.direccion-seccion h2 {
+    color: #495057;
+    font-size: 2.5em;
+    border-bottom: 3px solid #007bff;
+    padding-bottom: 12px;
+    margin-bottom: 25px;
+    letter-spacing: -0.5px;
+}
+
+.direccion-seccion p {
+    color: #545b62;
+    font-size: 1.1em;
+    line-height: 1.8;
+    margin-bottom: 15px;
+}
+
+.direccion-seccion address {
+    font-style: normal; /* Evitar la cursiva por defecto de address */
+    font-size: 1.2em;
+    color: #343a40; /* Un color más oscuro para la dirección */
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+/* Estilos opcionales para el mapa */
+/*.direccion-seccion .mapa-ubicacion {
+    margin-top: 20px;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.direccion-seccion .mapa-ubicacion img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.direccion-seccion p a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.direccion-seccion p a:hover {
+    text-decoration: underline;
+}*/
